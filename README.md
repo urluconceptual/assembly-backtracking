@@ -17,3 +17,8 @@ The answer will be displayed as standard output, as appropriate:
     we have that each element in {1, 2, 3, 4, 5} occurs 3 times, and we want at least m = 1 distance between any two equal elements. The lexicographically smallest permutation, keeping the fixed points, is the following:  
     
     1 2 1 2 1 2 3 4 3 5 3 4 5 4 5
+
+## Screenshots
+
+![Example_Screenshot](screenshot1.png)
+
